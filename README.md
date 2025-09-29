@@ -28,8 +28,8 @@ Tech Stack
 Project Structure
 
 Library-Management-System/
-├── main.py # Main program, handles application flow
-├── user.py # User-related operations
+- main.py # Main program, handles application flow
+- user.py # User-related operations
 
 How to run
 
