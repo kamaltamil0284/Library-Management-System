@@ -1,0 +1,67 @@
+bookid,title,author,category,status
+101,Steve Jobs,Walter Issacson,Biography,issued
+102,Discovery of India,Jawaharlal Nehru,History,issued
+103,My Experiments with Truth,Mahatma Gandhi,Autobiography,available
+104,Object Oriented Programming with C++,E Balagurusamy,Education,available
+105,Thinking with type,Ellen Lupton,Arts,available
+106,The Photographer's,Lindsay Adler,Photography,available
+107,Think and Grow,Napoleon Hill,Economics,available
+108,The Fifth Discipline : The Art,Peter M.Senge,Management,available
+109,A Theory of Justice,John Rawls,Law,issued
+110,Eat to Live,Joel Fuhrman,Health,issued
+111,City of Heavenly Fire,Cassandra Clare,Fiction,available
+112,Da Vinci Code,Dan Brown,Fiction,available
+113,War and Peace,Leo Tolstoy,Philosophical fiction,available
+114,Python For All,John Shovic,Education,available
+115,Automate The Boring Stuff With Python,Al Sweigart,Education,available
+116,Wings Of Fire,APJ Abdul Kalam,Autobiography,available
+117,Ikigai,Hector Garcia,Personal Development,available
+118,Who Will Cry When You Will Die,Robin Sharma,Personal Development,available
+119,Rich Dad Poor Dad,Robert T. Kiyosaki,Business,available
+120,Immortals of Meluha,Amish Tirpathi,High Fantasy,available
+121,A Brief History Of Time,Stephen Hawking,SPACE,available
+122,I Know Why The Cage Bird Sings,Maya Anguelo,Story,available
+123,Lord Of Files,William Golding,Fiction,available
+124,Loara Dune,R. D Blackmore,Fiction,available
+125,Jamacia Inn,Daphne,Fiction,issued
+126,Kidnapped,Robert Louis,Fiction,issued
+127,Treasure Island,Robert Louis,Fiction,available
+128,The Call Of Wild,Jack London,Fiction,available
+129,Charlottes Web,E. B White,Fiction,available
+130,The Wind In Willows,Kenneth Grahame,Fiction,available
+131,Being and Time,Martin Heldegger,Philosophy,available
+132,The Republic,Rocha Pereia,Philosophy,available
+133,Critique For Pure Reason,Paul Guyer,Philosophy,available
+134,The Prince,Rufus Godwin,Philosophy,available
+135,Ethics,Stuart Hampshire,Philosophy,available
+136,Long Walk To Freedom,Nelson Mandela,Autobiography,available
+137,The Dairy Of Young Girl,Anne Frank,Autobiography,available
+138,Mark Twain,Mark Twain,Autobiography,available
+139,Mein Kampf,Adolf Hitler,Autobiography,available
+140,Freakonomics,Steveb D.Levit,Economics,available
+141,Thinking Fast and Slow,Daniel Kahneman,Economics,available
+142,Tell You About Capitalism,HA-Joon Chang,Economics,available
+143,Animal Spirits,Akerlof and Shiller,Economics,available
+144,The Black Swan,Nassim Nicholas Taleb,Economics,available
+145,1984,George Orwell,Story,available
+146,The Lord Of Wings ,J.R.R.Tolken,Story,available
+147,Kite Runner,Khaled Hosseini,Story,available
+148,Harry Potter,J.K.Rowling,Story,available
+149,The Book Theif,Markus Zusak,Story,available
+150,History Of 20th Century,Martin Gilbert,History,available
+151,"Guns,Germs,and Steel",Jared Daimond,History,available
+152,A World lit Only by Fire,William Manchestar,History,available
+153,The Crusades ,Thomas Asbridge,History,available
+154,Over The Edge Of The World,Laurence,History,available
+155,A Beautiful Mind ,Sylvia Nasar,Biography,available
+156,The Enigma,Andrew Hodges,Biography,available
+157,Alexander Hamilton,Ron Chernow,Biography,available
+158,Barracoon,Zora Neale Hurston,Biography,available
+159,CHURCHILL : A Life,MArtin Glibert,Biography,available
+160,A Tale of Two Cities,Charles Dickens,Historical novel,available
+161,Les Misarables,Victor Hugo,Historical fiction,available
+62,The Brief History of Time,Stephen Hawking,Science Fiction,available
+163,Python,Kamal,Education,available
+164,Computer Science with Python,Sumita Arora,Education,available
+165,java,james,education,available
+166,python,kamal,developer,available
