@@ -30,10 +30,6 @@ Project Structure
 Library-Management-System/
 ├── main.py # Main program, handles application flow
 ├── user.py # User-related operations
-├── librarian.py # Librarian-related operations
-├── Books_data.csv # Stores book details
-└── User_Details.csv # Stores user details
-
 
 How to run
 
